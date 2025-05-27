@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Mariah, a DS student at UR
+- 🌱 I’m currently learning about genomic research and bioinformatics
+- 😄 Pronouns: she/her
 
+  
 <!--
 **Mariah-N/Mariah-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
